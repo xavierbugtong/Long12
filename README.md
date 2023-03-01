@@ -1,3 +1,5 @@
 # Long12
 
-pater
+Xavier Bugtong
+Rancil Aurora
+JE Lawenko
