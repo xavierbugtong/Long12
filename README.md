@@ -1,3 +1,12 @@
 # Long12
 
-pater and friends
+dogs 
+cats
+running
+eating
+Drinking
+Ridding
+Sleeping
+exercise
+typing
+computer
